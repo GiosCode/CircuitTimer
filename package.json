@@ -1,0 +1,22 @@
+{
+  "name": "circuittimer",
+  "version": "1.0.0",
+  "description": "Pomodoro Timer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiosVault/CircuitTimer.git"
+  },
+  "author": "Giovanni Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GiosVault/CircuitTimer/issues"
+  },
+  "homepage": "https://github.com/GiosVault/CircuitTimer#readme",
+  "dependencies": {
+    "electron": "^4.1.4"
+  }
+}
