@@ -16,7 +16,8 @@
     "url": "https://github.com/GiosVault/CircuitTimer/issues"
   },
   "homepage": "https://github.com/GiosVault/CircuitTimer#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "electron": "^4.1.4"
   }
 }
