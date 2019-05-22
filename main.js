@@ -34,11 +34,13 @@ const mainMenuTemplate = [
         submenu: [
             {
                 label: 'Pause',
-                accelerator: process.platform == 'darwin' ? 'Command+P' : 'Ctrl+P'
+                accelerator: process.platform == 'darwin' ? 'Command+P' : 'Ctrl+P'//,
+                //Need to add the on click() command
             },
             {
                 label: 'Resume',
-                accelerator: process.platform == 'darwin' ? 'Command+R' : 'Ctrl+R'
+                accelerator: process.platform == 'darwin' ? 'Command+R' : 'Ctrl+R'//,
+                //Need to add the on click() command
             },
             {
                 label: 'Stop',
